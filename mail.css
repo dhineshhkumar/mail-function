@@ -1,0 +1,16 @@
+.card{
+    background-color: black;
+    color: white;
+
+}
+.card-header{
+    text-align: center;
+}
+.container{
+    width: 35%;
+    align-items: center;
+}
+.check{
+    color: red;
+
+}
